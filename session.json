@@ -1,0 +1,14 @@
+{
+  "host-192.168.0.146": {
+    "ip": "192.168.0.146",
+    "port": "22",
+    "username": "root",
+    "password": "root"
+  },
+  "host-192.169.0.149": {
+    "ip": "192.168.0.149",
+    "port": "22",
+    "username": "root",
+    "password": "root"
+  }
+}
